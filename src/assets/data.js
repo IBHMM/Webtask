@@ -1,0 +1,18 @@
+export const data = [
+    { word: "apple", hint: "A red or green fruit." },
+    { word: "banana", hint: "A yellow fruit with a peel." },
+    { word: "elephant", hint: "A large mammal with tusks." },
+    { word: "computer", hint: "An electronic device for processing data." },
+    { word: "mountain", hint: "A large landform that rises prominently above its surroundings." },
+    { word: "ocean", hint: "A vast body of saltwater." },
+    { word: "guitar", hint: "A musical instrument with strings." },
+    { word: "sunflower", hint: "A tall plant with a large, yellow flower head." },
+    { word: "umbrella", hint: "A device used to protect against rain or sunlight." },
+    { word: "zebra", hint: "A black and white striped African mammal." },
+    { word: "pizza", hint: "An Italian dish consisting of a round, flat base of dough." },
+    { word: "octopus", hint: "A sea creature with eight arms." },
+    { word: "hiking", hint: "An outdoor activity involving walking in natural environments." },
+    { word: "jazz", hint: "A genre of music that originated in the African American communities." },
+    { word: "space", hint: "The vast, seemingly infinite expanse beyond Earth." },
+    { word: "robot", hint: "A machine capable of carrying out tasks autonomously or with minimal human intervention." },
+];
